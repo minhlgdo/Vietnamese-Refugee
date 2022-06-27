@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  font-family: monospace;
+}
+
+.sphere {
+  fill: #3d4e8a;
+}
+
+.country {
+  /*   fill: lightgreen; */
+  stroke: black;
+  stroke-width: 0.1px;
+}
+
+.country:hover {
+  fill: red;
+}
+
+#selector {
+  padding-top: 10px;
+}
+
+
+
